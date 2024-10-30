@@ -9,6 +9,9 @@ Customer segmentation is a vital tool for businesses to better understand their 
 ## Dashboard Preview
 ![Customer Segmentation Analysis](https://github.com/Shristi-Kammar/Customer-Segmentation-Analysis/blob/main/Screenshot%202024-07-19%20214248.png)
 
+## Dataset 
+https://archive.ics.uci.edu/dataset/352/online+retail
+
 ## Objectives
 
 This project aims to:
