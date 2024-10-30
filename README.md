@@ -1,5 +1,5 @@
 
-# Customer Segmentation Analysis Report
+# Customer Segmentation Analysis
 
 ## Introduction
 
